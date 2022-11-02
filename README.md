@@ -7,11 +7,9 @@
 
 <h1 align="center">Hi, I'm Tama 👋</h1>
 
-## About
+### About
 
-Current interests are Nix, Haskell with a bit of F# and Kubernetes. 
-
-My GitHub contains projects, experiements & learnings.
+My GitHub contains projects, experiements & learnings. Current interests are Nix, Haskell with a bit of F# and Kubernetes. 
 
 Follow me on socials for updates.
 
@@ -19,25 +17,25 @@ Follow me on socials for updates.
 [![Twitter](https://img.shields.io/twitter/follow/tamawdev?style=flat-square&label=%40tamawdev&logo=twitter&logoColor=blue&color=FE5D26)](https://twitter.com/tamawdev)
 [![linkedin](https://img.shields.io/badge/-Tama%20Waddell-gray?style=flat-square&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/tama-waddell)
 
-## Projects
+### Projects
 
-### What am I hacking away on?
+#### What am I hacking away on?
 
-**[BrickTrader](https://github.com/hahahaskell/bricktrader)** -
+##### [BrickTrader](https://github.com/hahahaskell/bricktrader)
 
 A TUI Binance client for making crypto trades in a terminal. Built with Haskell and Brick.
 
-**[tamaw-dev](https://github.com/tamaw/tamaw-dev)** -
+##### [tamaw-dev](https://github.com/tamaw/tamaw-dev)
 
 Expanding on my landing page for more business orientated personal website.
 
-### What I've finished up with?
+#### What I've recently finished up with?
 
-**[tama-id-au](https://github.com/tamaw/tama-id-au)** -
+##### [tama-id-au](https://github.com/tamaw/tama-id-au)
 
 A landing page for myself. Written in Haskell with Clay and Lucid.
 
-**[Launchk8](https://github.com/tamaw/launchk8)** -
+##### [Launchk8](https://github.com/tamaw/launchk8)
 
 Learnings from the true-kubernetes course with examples and a mini project which builds and deploys docker images all within kubernetes.
 
